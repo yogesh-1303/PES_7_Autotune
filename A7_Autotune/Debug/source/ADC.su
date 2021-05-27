@@ -1,0 +1,3 @@
+ADC.c:12:6:TPM1_init	8	static
+ADC.c:28:6:ADC0_init	8	static
+ADC.c:49:6:analyse_ADC_buff	40	static

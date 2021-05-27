@@ -1,0 +1,4 @@
+sin.c:31:9:interpolate	48	static
+sin.c:53:9:fp_sin	32	static
+sin.c:113:6:tone_to_samples	32	static
+sin.c:140:6:samples_generated	16	static
